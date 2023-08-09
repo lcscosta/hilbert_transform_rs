@@ -1,5 +1,6 @@
 [package]
 name = "hilbert_transform"
+description = "An implementation of Hilbert Transformation like Matlab/Octave hilbert function"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
