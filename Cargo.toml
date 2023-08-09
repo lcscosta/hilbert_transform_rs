@@ -1,0 +1,11 @@
+[package]
+name = "hilbert_transform"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+keywords = ["signals", "hilbert", "transform", "demodulation"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rustfft = "6.1.0"
